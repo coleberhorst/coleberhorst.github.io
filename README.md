@@ -1,2 +1,3 @@
-# coleberhorst.github.io
+# coleberhorst.com
+
 Personal website
